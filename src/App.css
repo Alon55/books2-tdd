@@ -10,10 +10,26 @@
   color: white;
 }
 
+.inputs {
+  text-align: start;
+  padding: 0px 20vh;
+}
+h4 {
+  margin: 20px;
+}
+
+.specialOffer{
+  background-color: lightgoldenrodyellow;
+  border-radius: 25px;
+  color: black;
+  font-size: small;
+  padding: 0px 20px;
+  margin-bottom: 20px;
+}
+
 .App-logo {
-  height: 20vmin;
+  height: 10vmin;
   border-radius: 18px;
-  margin-bottom: 25px;
   pointer-events: none;
 }
 
